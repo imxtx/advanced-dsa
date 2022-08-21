@@ -1,4 +1,4 @@
-# Advanced DSA
+# Advanced Data Structures and Algorithms
 
 ## Trees
 
