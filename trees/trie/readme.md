@@ -1,4 +1,4 @@
-# Trie (Preffix Tree)
+# Trie
 
 C++ code:
 
